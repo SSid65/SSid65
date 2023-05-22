@@ -1,10 +1,18 @@
 <h1 align="center">Hi there, I'm Sergey</h1>
-<h3 align="center">I'm studying HTML, CSS for website layout</h3>
+<h4 align="center">I'm studying HTML, CSS for website layout</h4>
 <hr>
 <p> For WEB: </p>
+<p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3.0">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="">
+</p>
+
+<p> For main work: </p>
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office full">
+<img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="GIMP">
+</p>
 
 
 <!--
