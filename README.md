@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Sergey</h1>
+<h3 align="center">I'm studying HTML, CSS for website layout</h3>
 
 <!--
 **SSid65/SSid65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
