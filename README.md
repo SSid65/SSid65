@@ -1,5 +1,11 @@
 <h1 align="center">Hi there, I'm Sergey</h1>
 <h3 align="center">I'm studying HTML, CSS for website layout</h3>
+<hr>
+<p> For WEB: </p>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3.0">
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="">
+
 
 <!--
 **SSid65/SSid65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
